@@ -9,6 +9,6 @@ Usage
 ```
 import cleverbot
 
-cb1 = cleverbot.Cleverbot()
-print cb1.ask('Hi. What's up?")
+cb = cleverbot.Cleverbot()
+print cb.ask('Hi. What's up?")
 ```

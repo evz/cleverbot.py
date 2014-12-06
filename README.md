@@ -10,5 +10,5 @@ Usage
 import cleverbot
 
 cb1 = cleverbot.Cleverbot()
- print cb1.ask('Hi. How are you?")
+print cb1.ask('Hi. What's up?")
 ```
